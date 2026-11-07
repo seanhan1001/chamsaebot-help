@@ -3,7 +3,7 @@
 $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 과\ }}$ [레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 을\ 참고했습니다.\ 참새봇\ 도움말을\ 참고하세요.}}$
 
 ## 기능
-참새봇 명령어를 사용하면 기능들을 살펴볼 수 있습니다.
+참새봇 명령어를 사용하면 다양한 기능들을 살펴볼 수 있습니다.
 <img width="803" height="344" alt="스크린샷 2026-11-07 115223" src="https://github.com/user-attachments/assets/4a8f8f4b-f002-4937-a687-fe631dd90dff" />
 
 **명령어 목록**
@@ -26,7 +26,9 @@ $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentr
     참새봇 안녕
     참새봇 반가워
     ```
-    * 결과: 
-   
+    * 결과: 반가워요! 도움말은 여기를 참고해주세요. https://github.com/seanhan1001/chamsaebot-help
+  - **참새봇 한강물 온도**
+    참새봇 한강물 온도를 알려주는 명령어입니다.
+    <img width="1000" height="404" alt="스크린샷 2026-11-07 124616" src="https://github.com/user-attachments/assets/12f8b97a-9dc6-45bc-ac9a-1e3d56df3eba" />
 ## 참새봇 도움말
--- 아직 추가 예정
+
