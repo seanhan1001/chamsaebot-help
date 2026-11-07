@@ -1,6 +1,6 @@
 # 참새봇 소개
-엔트리 코딩 교육 플랫폼에서 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599)에서 남겨주세요. 
-$\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentry.org/profile/6117644e92db026326dfa) $\color{red}{\textsf{\ 과\ }}$ [레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893) $\color{red}{\textsf{\ 을\ 참고했습니다.\ 참새봇\ 도움말을\ 참고하세요.}}$
+엔트리 코딩 교육 플랫폼에서 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)에서 남겨주세요. 
+$\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 과\ }}$ [레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 을\ 참고했습니다.\ 참새봇\ 도움말을\ 참고하세요.}}$
 
 ## 기능
 참새봇 명령어를 사용하면 기능들을 살펴볼 수 있습니다.
@@ -15,5 +15,18 @@ $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentr
     참새봇 유저검색 한참새
     참새봇 유저 검색 한참새
     ```
+    * 결과: "한참새" 닉네임을 가지신 분을 찾았어요! https://playentry.org/profile/65e44d35869cb20f35874599 입니다.
+  - **참새봇 정보 닉네임**
+    ```bash
+    참새봇 정보 한참새
+    ```
+    * 결과: "한참새"님은 2024. 3. 3. 오후 7:13:09에 생성된 계정으로 총 작품은 47개, 엔이글은 1521개, 노하우 팁은 4개입니다!
+  - **참새봇 안녕**
+    ```bash
+    참새봇 안녕
+    참새봇 반가워
+    ```
+    * 결과: 
+   
 ## 참새봇 도움말
 -- 아직 추가 예정
