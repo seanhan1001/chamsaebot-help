@@ -1,5 +1,5 @@
-# 참새봇 소개
-엔트리 코딩 교육 플랫폼에서 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)에서 남겨주세요. 
+# 참새봇 도움말
+엔트리 코딩 교육 플랫폼에서 엔트리 이야기 봇인 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all) 아무 작품에다 남겨주세요. 
 $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 과\ }}$ [레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 을\ 참고했습니다.\ 참새봇\ 도움말을\ 참고하세요.}}$
 
 ## 기능
@@ -29,6 +29,7 @@ $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentr
     * 결과: 반가워요! 도움말은 여기를 참고해주세요. https://github.com/seanhan1001/chamsaebot-help
   - **참새봇 한강물 온도**
     참새봇 한강물 온도를 알려주는 명령어입니다.
-    <img width="1000" height="404" alt="스크린샷 2026-11-07 124616" src="https://github.com/user-attachments/assets/12f8b97a-9dc6-45bc-ac9a-1e3d56df3eba" />
-## 참새봇 도움말
+    <img width="803" height="344" alt="스크린샷 2026-11-07 124616" src="https://github.com/user-attachments/assets/12f8b97a-9dc6-45bc-ac9a-1e3d56df3eba" />
+## 참고
+
 
