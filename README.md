@@ -30,3 +30,7 @@ $\color{red}{\textsf{본\ 봇의\ 명령어와\ 문구는\ }}$[선생봇](https:
   - **참새봇 한강물 온도**
     - 참새봇 한강물 온도를 알려주는 명령어입니다.
     <img width="879" height="346" alt="스크린샷 2026-11-07 오후 5 59 23" src="https://github.com/user-attachments/assets/5746e562-a197-4b48-9da8-167f71ba52fd" />
+
+## 참고
+  - 참새봇은 1차로 [완전하지 않은 유저목록](https://raw.githubusercontent.com/ddot103/Entryuser/main/)에서 검사하고 2차로 엔이에서 검색해 결과가 완벽하지 않을 수 있습니다.
+  - 참새봇에 유저 정보를 이미지로 보여주는 방식을 구현해보고 샆다 하면 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)에서 아무 작품에 기여한다고 하면 됩니다.
