@@ -31,6 +31,7 @@ $\color{red}{\textsf{본\ 봇의\ 명령어와 문구는\ }}$[선생봇](https:/
     * 결과: 반가워요! 도움말은 여기를 참고해주세요. https://github.com/seanhan1001/chamsaebot-help
   - **참새봇 한강물 온도**
     참새봇 한강물 온도를 알려주는 명령어입니다.
-    <img width="850" height="344" alt="스크린샷 2026-11-07 124616" src="https://github.com/user-attachments/assets/12f8b97a-9dc6-45bc-ac9a-1e3d56df3eba" />
+    <img width="878" height="349" alt="image" src="https://github.com/user-attachments/assets/d421c39b-f2dc-454c-96be-2aeec5102ea6" />
+
 ## 참고
 점검을 위해 서버가 일시적으로 구동되지 않을 수 있습니다. 그럴땐 잠시 후에 다시 시도하거나 문의해주세요.
