@@ -4,7 +4,8 @@ $\color{red}{\textsf{본\ 봇의\ 명령어와 문구는\ }}$[선생봇](https:/
 
 ## 기능
 참새봇 명령어를 사용하면 다양한 기능들을 살펴볼 수 있습니다.
-<img width="876" height="375" alt="image" src="https://github.com/user-attachments/assets/4cd25c2b-839d-4a02-bc55-661c64e471eb" />
+<img width="878" height="374" alt="image" src="https://github.com/user-attachments/assets/5427070d-fb16-401a-91f5-146643523f5e" />
+
 
 
 **명령어 목록**
