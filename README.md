@@ -1,6 +1,7 @@
 # 참새봇 도움말
-엔트리 코딩 교육 플랫폼에서 엔트리 이야기 봇인 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all) 아무 작품에다 남겨주세요. 
 $\color{red}{\textsf{본\ 봇의\ 명령어는\ }}$ [선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 과\ }}$ [레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all) $\color{red}{\textsf{\ 을\ 참고했습니다.\ 참새봇\ 도움말을\ 참고하세요.}}$
+엔트리 코딩 교육 플랫폼에서 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)에다 남겨주세요.
+
 
 ## 기능
 참새봇 명령어를 사용하면 다양한 기능들을 살펴볼 수 있습니다.
