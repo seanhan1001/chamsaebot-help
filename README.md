@@ -1,5 +1,5 @@
 # 소개
-$\color{red}{\textsf{본\ 봇의\ 명령어와\ 문구는\ }}$[선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all)$\color{red}{\textsf{\ 및\ }}$[레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all)$\color{red}{\textsf{\ 을\ 참고했습니다.}}$[참새봇 도움말](https://github.com/seanhan1001/chamsaebot-help/blob/main/%EC%B0%B8%EC%83%88%EB%B4%87%20%EB%8F%84%EC%9B%80%EB%A7%90)$\color{red}{\textsf{\ 을\ 참고하세요.}}$
+$\color{red}{\textsf{본\ 봇의\ 명령어와\ 문구는\ }}$[선생봇](https://playentry.org/profile/6117644e92db026326dfa/project?sort=created&term=all&isOpen=all)$\color{red}{\textsf{\ 및\ }}$[레몬봇](https://playentry.org/profile/61ce812b3da4d1001a48893/project?sort=created&term=all&isOpen=all)$\color{red}{\textsf{\ 을\ 참고했습니다. }}$[참새봇 도움말](https://github.com/seanhan1001/chamsaebot-help/blob/main/%EC%B0%B8%EC%83%88%EB%B4%87%20%EB%8F%84%EC%9B%80%EB%A7%90)$\color{red}{\textsf{\ 을\ 참고하세요.}}$
 엔트리 코딩 교육 플랫폼에서 [한참새](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)가 만든 비공식 봇입니다. 피드백과 의견들은 [여기](https://playentry.org/profile/65e44d35869cb20f35874599/project?sort=created&term=all&isOpen=all)에다 남겨주세요.
 
 ## 기능
