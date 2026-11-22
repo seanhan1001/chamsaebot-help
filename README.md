@@ -34,7 +34,7 @@ $\color{red}{\textsf{본\ 봇의\ 명령어와\ 문구는\ }}$[선생봇](https:
     - 참새봇 한강물 온도를 알려주는 명령어입니다.
     <img width="879" height="346" alt="스크린샷 2026-11-07 오후 5 59 23" src="https://github.com/user-attachments/assets/5746e562-a197-4b48-9da8-167f71ba52fd" />
 
-# 로그
+## 업데이트 로그
 - $\color{red}{\textsf{10월 19일\ 참새봇\ 가동\ (명령어:\ }}$[참새봇 도움말](https://github.com/seanhan1001/chamsaebot-help/blob/main/%EC%B0%B8%EC%83%88%EB%B4%87%20%EB%8F%84%EC%9B%80%EB%A7%90)$\color{red}{\textsf{)}}$
 - $\color{red}{\textsf{10월\ 30일\ 참새봇 정보에 계정 생성일\ 추가\ }}$
 - $\color{red}{\textsf{11월 초부터\ 명령어\ 인지도\ 높임\ }}$
